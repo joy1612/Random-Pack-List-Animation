@@ -45,10 +45,10 @@ class ViewController: UIViewController {
                     self.plusBUtton.layer.borderWidth = 0.0
                 }, completion: nil )
                 self.addRandomItem()
-        })     
+        })
     }
     
-    /*for demo
+    /*for demo for multiple animation chain
  
      UIView.animate(withDuration: 1, animations: {
      view.frame.origin.x += 200
