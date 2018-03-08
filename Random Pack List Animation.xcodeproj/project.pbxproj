@@ -14,6 +14,7 @@
 		038EC2662049CECF00F5FF9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 038EC2642049CECF00F5FF9E /* LaunchScreen.storyboard */; };
 		038EC2712049CED000F5FF9E /* Random_Pack_List_AnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038EC2702049CED000F5FF9E /* Random_Pack_List_AnimationTests.swift */; };
 		038EC27C2049CED000F5FF9E /* Random_Pack_List_AnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038EC27B2049CED000F5FF9E /* Random_Pack_List_AnimationUITests.swift */; };
+		039669A620508A520023CB01 /* EasyAnimation in Resources */ = {isa = PBXBuildFile; fileRef = 039669A520508A510023CB01 /* EasyAnimation */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		038EC2772049CED000F5FF9E /* Random Pack List AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Random Pack List AnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		038EC27B2049CED000F5FF9E /* Random_Pack_List_AnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Random_Pack_List_AnimationUITests.swift; sourceTree = "<group>"; };
 		038EC27D2049CED000F5FF9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		039669A520508A510023CB01 /* EasyAnimation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = EasyAnimation; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		038EC25A2049CECF00F5FF9E /* Random Pack List Animation */ = {
 			isa = PBXGroup;
 			children = (
+				039669A520508A510023CB01 /* EasyAnimation */,
 				038EC25B2049CECF00F5FF9E /* AppDelegate.swift */,
 				038EC25D2049CECF00F5FF9E /* ViewController.swift */,
 				038EC25F2049CECF00F5FF9E /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				038EC2662049CECF00F5FF9E /* LaunchScreen.storyboard in Resources */,
 				038EC2632049CECF00F5FF9E /* Assets.xcassets in Resources */,
 				038EC2612049CECF00F5FF9E /* Main.storyboard in Resources */,
+				039669A620508A520023CB01 /* EasyAnimation in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
